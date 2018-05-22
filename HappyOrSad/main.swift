@@ -43,7 +43,7 @@ for individualCharacter in input {
 }
 
 
-// Output!!!!
+// Output
 if sadCount == happyCount {
     print("unsure")
 } else if sadCount <= happyCount {
