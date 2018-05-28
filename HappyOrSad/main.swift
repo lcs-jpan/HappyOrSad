@@ -10,6 +10,7 @@ import Foundation
 
 // Get the user input
 var rawInput = readLine()
+var Input = 0
 
 // Print out the input provided
 print("You said:")
